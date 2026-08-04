@@ -18,11 +18,48 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **4th-year CS Student** @ Cavite State University (Class of '27)
-* 🔭 **Currently focusing on:** System Design, Distributed Systems, and Localized RAG Architectures.
-* 💻 **Previously:** Built a 100% local RAG AI assistant @ Seiwa Kaiun & orchestrated n8n automation pipelines @ Eskwelabs.
-* 🌱 **Actively seeking:** Roles bridging AI/ML integration with production-grade fullstack engineering.
-* ⚡ **When I'm AFK:** Hitting the weights at the gym or grinding ranked matches in Valorant.
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">🎓 Education & Focus</h3>
+        <ul>
+          <li><b>Degree:</b> 4th-year B.Sc. in Computer Science @ Cavite State University (Class of 2027)</li>
+          <li><b>Awards:</b> Consistent Dean's Lister</li>
+          <li><b>Core Focus:</b> System Design, Distributed Systems, & Localized RAG Architectures</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">💼 Experience Highlights</h3>
+        <ul>
+          <li><b>Freelance Software Engineer:</b> Architected ETL pipelines & optimized AI video generation latency by 650%.</li>
+          <li><b>Seiwa Kaiun (Intern):</b> Built a 100% offline RAG AI assistant (Ollama, ChromaDB, Docker).</li>
+          <li><b>Eskwelabs (Intern):</b> Developed automated n8n enterprise workflows & custom AI agents.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="100%">
+        <h3 align="center">🚀 Featured Projects & Hackathons</h3>
+        <ul>
+          <li><b>GabAI:</b> AI-powered interview coach with real-time voice interaction using Google Live Speech API, Next.js, and Supabase.</li>
+          <li><b>Base Batch dApp:</b> Built and deployed a stablecoin Web3 dApp on the Base network for an APAC Hackathon.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <em>⚡ When I'm not writing code or deploying cloud infrastructure, you can find me hitting the weights at the gym or grinding ranked matches in Valorant.</em>
+</p>
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -52,7 +89,7 @@
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/ray briones" target="_blank">
+  <a href="https://www.linkedin.com/in/ray-briones-69872a228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rcbriones95@gmail.com">
