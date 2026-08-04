@@ -1,11 +1,17 @@
 <div align="center">
-  <h1>Hi, I'm Ray Cielo Briones 👋</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+%26+AI+Engineer;Data+Pipeline+Architect;Building+intelligent+scalable+systems" alt="Typing SVG" />
-  </a>
-  <p><em>Based in Cavite, Philippines 🇵🇭</em></p>
+  <!-- Dynamic Dark Blue Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=220&section=header&text=Ray%20Cielo%20Briones&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" alt="Header" />
   
-  <img src="https://komarev.com/ghpvc/?username=soraaaaaaaaa&label=Profile%20views&color=58a6ff&style=flat" alt="Profile Views" />
+  <!-- Upgraded Terminal-Style Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=%3E_+Fullstack+%26+AI+Engineer;%3E_+Data+Pipeline+Architect;%3E_+Building+scalable+systems" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  <!-- Cohesive Dashboard Badges -->
+  <img src="https://img.shields.io/badge/📍_Based_in-Cavite,_Philippines_🇵🇭-0a192f?style=for-the-badge&labelColor=060f1c" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=soraaaaaaaaa&label=Profile%20Views&color=58a6ff&style=for-the-badge&labelColor=060f1c" alt="Profile Views" />
 </div>
 
 ---
