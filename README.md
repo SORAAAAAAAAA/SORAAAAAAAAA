@@ -10,19 +10,19 @@
   <br/>
   
   <!-- Cohesive Dashboard Badges -->
-  <img src="https://img.shields.io/badge/📍_Based_in-Cavite,_Philippines_🇵🇭-0a192f?style=for-the-badge&labelColor=060f1c" alt="Location" />
+  <img src="https://img.shields.io/badge/Based_in-Cavite,_Philippines-0a192f?style=for-the-badge&labelColor=060f1c" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=soraaaaaaaaa&label=Profile%20Views&color=58a6ff&style=for-the-badge&labelColor=060f1c" alt="Profile Views" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 <div align="center">
   <table>
     <tr>
       <td valign="top" width="50%">
-        <h3 align="center">🎓 Education & Focus</h3>
+        <h3 align="center">Education & Focus</h3>
         <ul>
           <li><b>Degree:</b> 4th-year B.Sc. in Computer Science @ Cavite State University (Class of 2027)</li>
           <li><b>Awards:</b> Consistent Dean's Lister</li>
@@ -30,7 +30,7 @@
         </ul>
       </td>
       <td valign="top" width="50%">
-        <h3 align="center">💼 Experience Highlights</h3>
+        <h3 align="center">Experience Highlights</h3>
         <ul>
           <li><b>Freelance Software Engineer:</b> Architected ETL pipelines & optimized AI video generation latency by 650%.</li>
           <li><b>Seiwa Kaiun (Intern):</b> Built a 100% offline RAG AI assistant (Ollama, ChromaDB, Docker).</li>
@@ -45,7 +45,7 @@
   <table>
     <tr>
       <td valign="top" width="100%">
-        <h3 align="center">🚀 Featured Projects & Hackathons</h3>
+        <h3 align="center">Featured Projects & Hackathons</h3>
         <ul>
           <li><b>GabAI:</b> AI-powered interview coach with real-time voice interaction using Google Live Speech API, Next.js, and Supabase.</li>
           <li><b>Base Batch dApp:</b> Built and deployed a stablecoin Web3 dApp on the Base network for an APAC Hackathon.</li>
@@ -56,12 +56,12 @@
 </div>
 
 <p align="center">
-  <em>⚡ When I'm not writing code or deploying cloud infrastructure, you can find me hitting the weights at the gym, playing the guitar or grinding ranked matches in Valorant.</em>
+  <em>When I'm not writing code or deploying cloud infrastructure, you can find me hitting the weights at the gym or grinding ranked matches in Valorant.</em>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -75,7 +75,7 @@
 
 <br/>
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=soraaaaaaaaa&show_icons=true&bg_color=0a192f&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=0a192f&hide_border=true" width="48%" alt="Extended GitHub Stats" />
@@ -86,7 +86,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soraaaaaaaaa&bg_color=0a192f&color=c9d1d9&line=58a6ff&point=ffffff&area_color=0e75b6&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-### 📫 Let's Connect
+### Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ray-briones-69872a228/" target="_blank">
