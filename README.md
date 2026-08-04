@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Ray Cielo Briones 👋</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Fullstack+%26+AI+Engineer;Data+Pipeline+Architect;Building+intelligent+scalable+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+%26+AI+Engineer;Data+Pipeline+Architect;Building+intelligent+scalable+systems" alt="Typing SVG" />
   </a>
   <p><em>Based in Cavite, Philippines 🇵🇭</em></p>
   
-  <img src="https://komarev.com/ghpvc/?username=soraaaaaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=soraaaaaaaaa&label=Profile%20views&color=58a6ff&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 
 * 🎓 **4th-year CS Student** @ Cavite State University (Class of '27)
 * 🔭 **Currently focusing on:** System Design, Distributed Systems, and Localized RAG Architectures.
-* 💼 **Previously:** Built a 100% offline RAG AI assistant @ Seiwa Kaiun & orchestrated n8n automation pipelines @ Eskwelabs.
+* 💻 **Previously:** Built a 100% local RAG AI assistant @ Seiwa Kaiun & orchestrated n8n automation pipelines @ Eskwelabs.
 * 🌱 **Actively seeking:** Roles bridging AI/ML integration with production-grade fullstack engineering.
 * ⚡ **When I'm AFK:** Hitting the weights at the gym or grinding ranked matches in Valorant.
 
@@ -35,12 +35,12 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soraaaaaaaaa&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soraaaaaaaaa&show_icons=true&theme=transparent&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=soraaaaaaaaa&show_icons=true&bg_color=0a192f&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=0a192f&hide_border=true" width="48%" alt="Extended GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soraaaaaaaaa&show_icons=true&layout=compact&bg_color=0a192f&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=0a192f&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soraaaaaaaaa&theme=transparent&hide_border=true&color=0e75b6&line=0e75b6&point=ffffff" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soraaaaaaaaa&bg_color=0a192f&color=c9d1d9&line=58a6ff&point=ffffff&area_color=0e75b6&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ### 📫 Let's Connect
