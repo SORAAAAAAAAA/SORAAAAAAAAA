@@ -56,7 +56,7 @@
 </div>
 
 <p align="center">
-  <em>⚡ When I'm not writing code or deploying cloud infrastructure, you can find me hitting the weights at the gym or grinding ranked matches in Valorant.</em>
+  <em>⚡ When I'm not writing code or deploying cloud infrastructure, you can find me hitting the weights at the gym, playing the guitar or grinding ranked matches in Valorant.</em>
 </p>
 
 ---
