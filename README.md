@@ -1,20 +1,61 @@
-<h1 align="center">Hi 👋, I'm Ray Cielo Briones</h1>
-<h3 align="center">A Full Stack Developer from Cavite - Philippines</h3>
+<div align="center">
+  <h1>Hi, I'm Ray Cielo Briones 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Fullstack+%26+AI+Engineer;Data+Pipeline+Architect;Building+intelligent+scalable+systems" alt="Typing SVG" />
+  </a>
+  <p><em>Based in Cavite, Philippines 🇵🇭</em></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=soraaaaaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soraaaaaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="soraaaaaaaaa" /> </p>
+---
 
-- 📫 How to reach me **rcbriones95@gmail.com**
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/syiluuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syiluuu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ray briones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ray briones" height="30" width="40" /></a>
-<a href="https://fb.com/ray cielo briones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ray cielo briones" height="30" width="40" /></a>
-</p>
+* 🎓 **4th-year CS Student** @ Cavite State University (Class of '27)
+* 🔭 **Currently focusing on:** System Design, Distributed Systems, and Localized RAG Architectures.
+* 💼 **Previously:** Built a 100% offline RAG AI assistant @ Seiwa Kaiun & orchestrated n8n automation pipelines @ Eskwelabs.
+* 🌱 **Actively seeking:** Roles bridging AI/ML integration with production-grade fullstack engineering.
+* ⚡ **When I'm AFK:** Hitting the weights at the gym or grinding ranked matches in Valorant.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### 🛠️ Tech Stack & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soraaaaaaaaa&show_icons=true&locale=en&layout=compact" alt="soraaaaaaaaa" /></p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,java,react,nextjs,tailwind,html,css" alt="Languages & Frontend" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,firebase,redis,docker,aws,gcp" alt="Backend & Cloud" />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soraaaaaaaaa&show_icons=true&locale=en" alt="soraaaaaaaaa" /></p>
+<br/>
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soraaaaaaaaa&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soraaaaaaaaa&show_icons=true&theme=transparent&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soraaaaaaaaa&theme=transparent&hide_border=true&color=0e75b6&line=0e75b6&point=ffffff" width="100%" alt="Activity Graph" />
+</div>
+
+### 📫 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/ray briones" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rcbriones95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/syiluuu" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://fb.com/ray cielo briones" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
